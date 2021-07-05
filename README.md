@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on alipay
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with work
 - 💬 Ask me about Facebook
 - 📫 How to reach me: 64984349@qq.com
 - 😄 Pronouns: ...
