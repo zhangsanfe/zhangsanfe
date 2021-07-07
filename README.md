@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with work
 - 💬 Ask me about Facebook
 - 📫 How to reach me: 64984349@qq.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: hello
 - ⚡ Fun fact: learning
