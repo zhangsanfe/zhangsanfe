@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on alipay
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nodejs and flutter
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with work
 - 💬 Ask me about Facebook
